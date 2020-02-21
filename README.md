@@ -1,4 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2> User Stories </h2>
+
+as a User, 
+So I can find a restaurant near me, 
+I want to be able to use GPS location
+
+as a User, 
+So I can find a certain restaurant, 
+I want to be able to serch for resutarants within a certain radius
+
+as a User, 
+So i can find eat a specific dish, 
+i want to be able to search for specific dish
+
+as a User, 
+So I can make a judgement from where I order, 
+I want to see the rating of the resturanta
+
+as a user, 
+so I can get more detail on the dish I am ordering, 
+I want to see if the dish has been mentioned on any reviews
+
+
 
 ## Available Scripts
 
