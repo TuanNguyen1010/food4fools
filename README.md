@@ -2,7 +2,7 @@
 
 as a User, 
 So I can find a restaurant near me, 
-I want to be able to use GPS location
+I want to be able to be able to input my post code. 
 
 as a User, 
 So I can find a certain restaurant, 
